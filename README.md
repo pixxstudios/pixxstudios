@@ -3,7 +3,7 @@ I am a Frontend developer working in Sydney.
 
 
 - 🔭 I’m currently working on Javscript, ReactJS, NodeJS
-- 🌱 I’m currently learning Go, Godot
+- 🌱 I’m currently learning Go, Docker
 - 👯 I’m looking to collaborate on GraphQL
 <!--
 - 🤔 I’m looking for help with ...
