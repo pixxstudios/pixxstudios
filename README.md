@@ -14,3 +14,5 @@ I am a Frontend developer working in Sydney.
 -->
 
 [![Gagan's github stats](https://github-readme-stats.vercel.app/api?username=pixxstudios&show_icons=true&theme=radical)](https://github.com/pixxstudios/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pixxstudios)](https://github.com/pixxstudios/github-readme-stats)
