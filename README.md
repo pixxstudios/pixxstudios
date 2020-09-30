@@ -13,4 +13,4 @@ I am a Frontend developer working in Sydney.
 - ⚡ Fun fact: ...
 -->
 
-[![Gagan's github stats](https://github-readme-stats.vercel.app/api?username=pixxstudios)](https://github.com/pixxstudios/github-readme-stats)
+[![Gagan's github stats](https://github-readme-stats.vercel.app/api?username=pixxstudios&show_icons=true&theme=radical)](https://github.com/pixxstudios/github-readme-stats)
