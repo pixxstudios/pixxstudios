@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a Frontend developer working in Sydney.
+I am a Frontend developer based in Sydney.
 
 
 - 🔭 I’m currently working on Javscript, ReactJS, NodeJS
