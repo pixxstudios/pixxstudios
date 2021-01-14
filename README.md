@@ -3,7 +3,7 @@ I am a Frontend developer based in Melbourne, Australia.
 
 
 - 🔭 I’m currently working on Javscript, ReactJS, NodeJS
-- 🌱 I’m currently learning Go, Docker
+- 🌱 I’m currently learning Go, Typescript
 - 👯 I’m looking to collaborate on GraphQL
 <!--
 - 🤔 I’m looking for help with ...
