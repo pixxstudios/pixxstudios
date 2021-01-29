@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a Frontend developer based in Melbourne, Australia.
+I am a Full stack developer
 
 
 - 🔭 I’m currently working on Javscript, ReactJS, NodeJS
