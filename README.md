@@ -3,7 +3,7 @@ I am a Full stack developer
 
 
 - 🔭 I’m currently working on Javscript, ReactJS, NodeJS
-- 🌱 I’m currently learning Go, Typescript
+- 🌱 I’m currently learning Typescript
 - 👯 I’m looking to collaborate on GraphQL
 <!--
 - 🤔 I’m looking for help with ...
