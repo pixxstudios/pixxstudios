@@ -4,8 +4,7 @@ I am a Full stack developer
 
 - 🔭 I’m currently working on Javscript, ReactJS, NodeJS
 - 🌱 I’m currently learning Typescript
-- 👯 I’m looking to collaborate on GraphQL
-<!--
+<!-- 👯 I’m looking to collaborate on GraphQL
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
