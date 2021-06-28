@@ -2,7 +2,7 @@
 I am a Full stack developer
 
 
-- 🔭 I’m currently working on Javscript, ReactJS, NodeJS, TS
+- 🔭 I’m currently working on Javscript, ReactJS, Typescript
 - 🌱 I’m currently learning Go
 <!-- 👯 I’m looking to collaborate on GraphQL
 - 🤔 I’m looking for help with ...
