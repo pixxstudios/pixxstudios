@@ -3,7 +3,8 @@ I am a Full stack developer
 
 
 - 🔭 I’m currently working on Javscript, ReactJS, Typescript
-- 🌱 I’m currently learning Go
+- 🌱 I’m currently learning Go and Svelte
+- Ask me about ReactJS, Javascript.
 <!-- 👯 I’m looking to collaborate on GraphQL
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
