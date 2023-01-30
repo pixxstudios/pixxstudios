@@ -1,10 +1,10 @@
 ### Hi there 👋
-<!-- I am a Full stack developer
+I am a Full stack developer
 
 
 🔭 I’m currently working on Javscript, ReactJS, Typescript
-- 🌱 I’m currently learning Go and Unity
-- Ask me about ReactJS, Javascript.
+🌱 I’m currently learning Go and NestJS
+Ask me about ReactJS, Javascript.
 -- 👯 I’m looking to collaborate on GraphQL
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -16,4 +16,3 @@
 [![Gagan's github stats](https://github-readme-stats.vercel.app/api?username=pixxstudios&show_icons=true&theme=radical)](https://github.com/pixxstudios/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pixxstudios)](https://github.com/pixxstudios/github-readme-stats)
--->
