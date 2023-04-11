@@ -3,7 +3,7 @@ I am a Full stack developer
 
 
 - 🔭 I’m currently working on Javscript, ReactJS, Typescript
-- 🌱 I’m currently learning Go and NestJS
+- 🌱 I’m currently learning Go and NextJS
 - Ask me about ReactJS, Javascript.
 
 
